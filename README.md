@@ -80,3 +80,7 @@ Implement deeper architectures (e.g., ResNet)
 Add real-time face recognition using a webcam
 Improve accuracy with larger datasets
 Integrate face detection before recognition
+
+👤 Author
+Yukti Ogare
+AI & Cybersecurity Student
